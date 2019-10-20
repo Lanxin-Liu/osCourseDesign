@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "2048game.h": "c",
+        "global.h": "c",
+        "console.h": "c",
+        "rand.h": "c",
+        "proto.h": "c",
+        "tty.h": "c"
+    }
+}
